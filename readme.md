@@ -6,3 +6,16 @@
 5.Angular js only for web app.
 6.CDN links should be in order- 1st-react then reactDOM--means react in our prjt.
 7.
+
+
+GIT push
+1.CREATE GITHUB ACCOUNT
+2.Install git.
+3.create a repo in the github with a name.
+4.git branch -m main
+5.git add .
+6.git status
+7.git commit -m "Adding the message" // 
+.git remote add origin git @github.com(if needed )
+8.git push origin 
+=====
